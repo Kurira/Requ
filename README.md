@@ -1,2 +1,1 @@
-# Requ
-A pull request notification machine
+A pull request notification machine, used for github.
